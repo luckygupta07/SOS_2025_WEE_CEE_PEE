@@ -23,9 +23,3 @@ I have completed this project in a structured manner with the order of topics as
 ## Week 5
 - Learnt advanced graph algorithms like detection of cycle in DAG, topological sort, Dijkstra, Floyd Warshall, Bellman Ford, Floyd's cycle finding algorithm, Kruskal and Prim's algorithm to find minimum spanning tree, etc.
 - Solved dynamic programming problems involving the aforementioned algorithms.
-
-## Milestones achieved
-- Solved 400+ problems on codeforces since the start of the project.
-- Reached 1580 peak rating on codeforces (ID : [SomeGuy27](https://codeforces.com/profile/SomeGuy27)).
-- Learnt different algorithms, data structures and their applications in difficult problems.
-- Got comfortable with solving difficult problems and learning new approaches.
